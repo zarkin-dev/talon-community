@@ -46,6 +46,7 @@ calc,calculate
 calc,calculator
 cam,camera
 ca,canada
+cidr,cider
 cm,centimeter
 chr,char
 char,character
@@ -194,6 +195,8 @@ insn,instruction
 int,integer
 interp,interpreter
 int,interrupt
+ipv6, ip vee six
+ipv4, ip vee four
 iter,iterate
 json,jason
 json5,jason five
@@ -244,6 +247,7 @@ mnt,mount
 multi,multiple
 musl,muscle
 mut,mutate
+nacl,network access control list
 ns,nano second
 nvim,neo vim
 nb,new brunswick
